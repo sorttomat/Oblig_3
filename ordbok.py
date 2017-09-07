@@ -1,3 +1,8 @@
+"""
+Dette programmet oppretter en dictionary, legger inn to nye keys med tilhorende 
+values og printer ut dictionaryen.
+"""
+
 butikk = {
 "melk" : 14.9,
 "brod" : 24.9,

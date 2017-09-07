@@ -1,3 +1,7 @@
+"""
+Dette programmet tar inn en alder fra brukeren, og beregner billettpris utifra dette.
+"""
+
 def beregnBillettpris():
     """
     Denne funksjonen tar inn en alder fra brukeren, og beregner billettpris
